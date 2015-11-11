@@ -1,0 +1,17 @@
+{
+  "name": "unrender",
+  "version": "1.0.0",
+  "description": "A javascript text parsing engine",
+  "main": "index.js",
+  "author": "George Ma",
+  "license": "MIT",
+  "keywords": [
+    "text",
+    "parser",
+    "reverse",
+    "template"
+  ],
+  "devDependencies": {
+    "it": "^0.2.7"
+  }
+}
